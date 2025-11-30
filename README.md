@@ -19,7 +19,7 @@ L’application est entièrement dockerisée et prête pour le déploiement en p
 
 ```bash
 docker compose up --build
-
+```
 
 
 # ✅ **4. docker-compose.yml**
