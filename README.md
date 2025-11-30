@@ -3,7 +3,7 @@
 Ce projet est une application fullstack complète comprenant :
 
 - **Frontend :** React + Vite
-- **Backend :** Spring Boot (Java 17)
+- **Backend :** Spring Boot (Java 20)
 - **Base de données :** MySQL 8
 - **Reverse Proxy :** Nginx
 - **Conteneurisation :** Docker & Docker Compose
