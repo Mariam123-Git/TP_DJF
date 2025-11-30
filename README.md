@@ -10,6 +10,9 @@ Ce projet est une application fullstack complète comprenant :
 
 L’application est entièrement dockerisée et prête pour le déploiement en production.
 
+## 🖼️ Aperçu du Projet
+
+![Architecture du Projet](./docs/app.png)
 
 
 # ✅ **3. Lancement du projet avec Docker**
